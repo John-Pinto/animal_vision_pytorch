@@ -12,13 +12,13 @@ Questions, suggestions or corrections can be posted as a issues.
 
 [***Objective***](#objective)
 
-[***Overview***](https://github.com/JohnPPinto/animal_vision_pytorch/edit/main/README.md#overview)
+[***Overview***](#overview)
 
-[***Experiment***](https://github.com/JohnPPinto/animal_vision_pytorch/edit/main/README.md#experiment)
+[***Experiment***](#experiment)
 
-[***Scripting***](https://github.com/JohnPPinto/animal_vision_pytorch/edit/main/README.md#scripting)
+[***Scripting***](#scripting)
 
-[***Deployment***](https://github.com/JohnPPinto/animal_vision_pytorch/edit/main/README.md#deployment)
+[***Deployment***](#deployment)
 
 ---
 
