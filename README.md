@@ -10,7 +10,7 @@ Questions, suggestions or corrections can be posted as a issues.
 
 # Contents
 
-[***Objective***](https://github.com/JohnPPinto/animal_vision_pytorch/edit/main/README.md#objective)
+[***Objective***](#objective)
 
 [***Overview***](https://github.com/JohnPPinto/animal_vision_pytorch/edit/main/README.md#overview)
 
