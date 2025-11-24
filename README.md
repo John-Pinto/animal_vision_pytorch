@@ -14,11 +14,11 @@ Questions, suggestions or corrections can be posted as a issues.
 
 [***Overview***](#overview)
 
-[***Experiment***](#experiment)
+[***Experiment***](#experiment-phase)
 
 [***Scripting***](#scripting)
 
-[***Deployment***](#deployment)
+[***Deployment***](#deployment-phase)
 
 ---
 
